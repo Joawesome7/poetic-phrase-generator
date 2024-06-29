@@ -1,3 +1,7 @@
+Poetic-phrase-generator
+
+Create AI-generated witty and satrical poetic phrases about your favorite activities and places to visit.
+
 # Getting Started
 Install the dependencies and run the project
 ```
